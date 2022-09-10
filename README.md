@@ -22,6 +22,7 @@ The project uses ReactJS, Redux, Typescript and Sass. It explores concepts of:
 3. Interface
 4. Event handlers
 5. Sass modules
+6. Spread operators
 
 ## Features
 
