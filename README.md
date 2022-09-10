@@ -28,11 +28,7 @@ The project uses ReactJS, Redux, Typescript and Sass. It explores concepts of:
 ![food-order-app-redux](https://github.com/arturguimaraes/food-order-app-redux/blob/main/src/assets/img/print2.png?raw=true)
 
 1. Cart control for adding correctly amounts if item is already in cart.
-2. Item removal in case of subtracting less then 1 amount.
-2. Form control for < 0 age input.
-
-![redux-user-manager](https://github.com/arturguimaraes/redux-user-manager/blob/main/src/assets/img/error2.png?raw=true)
-
-3. Success modal
-
-![redux-user-manager](https://github.com/arturguimaraes/redux-user-manager/blob/main/src/assets/img/success.png?raw=true)
+2. If item not in cart, add to it normaly.
+3. Item removal in case of subtracting less then 1 amount, or subtracts amount.
+4. Empty cart feature.
+5. All features above are controlled via Redux dispatch actions.
