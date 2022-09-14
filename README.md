@@ -8,8 +8,8 @@ Click [here](https://arturguimaraes.github.io/food-order-app-redux/) to go to th
 
 ## Installation
 
-1. `git clone repo`
-2. `food-order-app-redux`
+1. `git clone https://github.com/arturguimaraes/food-order-app-redux.git`
+2. `cd food-order-app-redux`
 3. `npm i`
 4. `npm start`
 
