@@ -2,6 +2,10 @@
 
 ![food-order-app-redux](https://github.com/arturguimaraes/food-order-app-redux/blob/main/src/assets/img/print1.png?raw=true)
 
+## Live Application
+
+Click [here](https://arturguimaraes.github.io/food-order-app-redux/) to go to the application.git s
+
 ## Installation
 
 1. `git clone repo`
