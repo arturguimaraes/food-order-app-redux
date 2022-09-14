@@ -4,7 +4,7 @@
 
 ## Live Application
 
-Click [here](https://arturguimaraes.github.io/food-order-app-redux/) to go to the application.git s
+Click [here](https://arturguimaraes.github.io/food-order-app-redux/) to go to the application.
 
 ## Installation
 
