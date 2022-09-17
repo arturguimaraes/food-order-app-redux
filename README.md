@@ -8,10 +8,22 @@ Click [here](https://arturguimaraes.github.io/food-order-app-redux/) to go to th
 
 ## Installation
 
-1. `git clone https://github.com/arturguimaraes/food-order-app-redux.git`
-2. `cd food-order-app-redux`
-3. `npm i`
-4. `npm start`
+1. `Clone repository`
+```js 
+git clone https://github.com/arturguimaraes/food-order-app-redux.git 
+```
+2. `Go to directory`
+```js 
+cd food-order-app-redux
+```
+3. `Install required libraries`
+```js 
+npm i
+```
+4. `Start project on http://localhost:3000/`
+```js 
+npm start
+```
 
 ## Introduction
 
